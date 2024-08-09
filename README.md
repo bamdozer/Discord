@@ -1,5 +1,7 @@
 Discord Timeseries for the top 8 people to prevent clutter.
+
 Click on the download rawfile under w2exp_progression_over_time.html to interact and see how exp changes over time.
+
 This does NOT update in real time. 
 This was created by ChatGPT reading the images of the EXP list and formatting it an excel file. T/D - NAME - EXP
 Then I created a small python code to make the excel sheet into time series that can be interacted with.  
